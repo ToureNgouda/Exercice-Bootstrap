@@ -28,5 +28,11 @@ h2{
   padding-left: 50px;
 }
 h3{
-
+top: 80%;
+}
+.well{
+  width: 400px;
+  height: 100px;
+  padding-top: 50px;
+  margin-top: 50px;
 }
