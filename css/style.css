@@ -1,0 +1,30 @@
+.container .progress{
+
+  margin-top: 150px;
+}
+
+
+li .active{
+  color: orange;
+  font-size: 18px;
+}
+
+.container .button{
+  margin-right: auto;
+}
+p{
+  color: orange;
+  font-size: 17px;
+}
+h1{
+  font-size: 20px;
+}
+h2{
+  font-size: 18px;
+  color: black;
+
+}
+ .row .block1{
+  padding-left: 50px;
+
+}
