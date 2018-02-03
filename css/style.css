@@ -12,20 +12,21 @@ li .active{
 .container .button{
   margin-right: auto;
 }
-p{
-  color: orange;
-  font-size: 17px;
-}
 h1{
-  font-size: 20px;
+  color: orange;
+  font-size: 18px;
+}
+p{
+  font-size: 15px;
 }
 h2{
-  font-size: 18px;
+  font-size: 20px;
   color: black;
 
 }
- .row .block1{
-  padding-left: 50px;
+ #block2,#block1{
+  
+  border-radius: 10px 5px 10px 5px;
 }
 h3{
 top: 80%;
